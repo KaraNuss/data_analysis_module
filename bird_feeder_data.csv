@@ -1,0 +1,41 @@
+﻿Observation,Day,Time,Species,Count
+1,1,am,house finch,11
+1,1,am,chickadee,2
+1,1,am,house sparrow,13
+1,1,am,cardinal,0
+2,1,pm,house finch,6
+2,1,pm,chickadee,1
+2,1,pm,house sparrow,8
+2,1,pm,cardinal,0
+3,2,am,house finch,18
+3,2,am,chickadee,7
+3,2,am,house sparrow,16
+3,2,am,cardinal,1
+4,2,pm,house finch,7
+4,2,pm,chickadee,6
+4,2,pm,house sparrow,12
+4,2,pm,cardinal,1
+5,3,am,house finch,19
+5,3,am,chickadee,8
+5,3,am,house sparrow,16
+5,3,am,cardinal,1
+6,3,pm,house finch,4
+6,3,pm,chickadee,0
+6,3,pm,house sparrow,2
+6,3,pm,cardinal,0
+7,4,am,house finch,16
+7,4,am,chickadee,9
+7,4,am,house sparrow,14
+7,4,am,cardinal,0
+8,4,pm,house finch,12
+8,4,pm,chickadee,7
+8,4,pm,house sparrow,9
+8,4,pm,cardinal,0
+9,5,am,house finch,15
+9,5,am,chickadee,11
+9,5,am,house sparrow,20
+9,5,am,cardinal,0
+10,5,pm,house finch,14
+10,5,pm,chickadee,3
+10,5,pm,house sparrow,9
+10,5,pm,cardinal,3
