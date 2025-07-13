@@ -1,0 +1,11 @@
+﻿Observation,Date,Time,Start,Temperature_f,Weather
+1,3/5/25,am,8:00,33,rainy
+2,3/5/25,pm,15:00,36,cloudy
+3,3/6/25,am,8:00,44,sunny
+4,3/6/25,pm,15:00,40,cloudy
+5,3/7/25,am,8:06,46,sunny
+6,3/7/25,pm,15:00,42,cloudy
+7,3/8/25,am,8:00,39,sunny
+8,3/8/25,pm,14:28,35,rainy
+9,3/9/25,am,8:00,40,sunny
+10,3/9/25,pm,15:00,54,sunny
